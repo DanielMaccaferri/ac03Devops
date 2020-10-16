@@ -1,2 +1,2 @@
-# ads2e
-O aluno deve escrever seu nome completo e RA no arquivo Readme.md
+Aluno: Daniel Maccaferri
+RA: 1903777
